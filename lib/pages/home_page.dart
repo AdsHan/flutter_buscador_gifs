@@ -133,7 +133,7 @@ class _HomePageState extends State<HomePage> {
             return GestureDetector(
               child: FadeInImage.memoryNetwork(
                 placeholder: kTransparentImage,
-                image: snapshot.data["data"][index]["images"]["fixed_height"]1,
+                image: snapshot.data["data"][index]["images"]["fixed_height"]["url"],
                 height: 300.0,
                 fit: BoxFit.cover,
               ),

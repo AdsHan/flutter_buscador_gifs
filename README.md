@@ -1,4 +1,4 @@
-# Conversor Online de Moedas
+# Busca GIFs
 
 - Flutter App.
 - Busca e exibe os trending GIFs do GIPHY.
